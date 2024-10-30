@@ -1,0 +1,27 @@
+/* src/components/Card.module.css */
+.card {
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    max-width: 300px;
+    margin: 10px;
+}
+
+.title {
+    font-size: 1.5em;
+    margin: 0;
+}
+
+.description {
+    font-size: 1em;
+    color: #555;
+}
+
+.button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
